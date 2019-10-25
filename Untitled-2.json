@@ -1,0 +1,13 @@
+{
+    "firstName": "Eric",
+    "lastName": "Pogue",
+    "preferredName": "Eric",
+    "email": "epogue@lewisu.edu",
+    "phoneNumber": "563-209-7280",
+    "city": "Lombard",
+    "state": "IL",
+    "zip": "60148",
+    "lat": "41.88",
+    "lng": "-88.01", 
+    "favoriteHobby": "Biking"
+}// JSON Document
