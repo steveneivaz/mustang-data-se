@@ -1,0 +1,13 @@
+{
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "preferredName": "Pete",
+    "email": "spidermanofficial@gmail.com",
+    "favoriteColor": "Red",
+    "city": "Queens",
+    "state": "NY",
+    "zip": "11101",
+    "lat": "40.7282",
+    "lng": "73.7949", 
+    "favoriteHobby": "Swinging"
+}

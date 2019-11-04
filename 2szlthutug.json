@@ -1,0 +1,13 @@
+{
+    "firstName": "Steven",
+    "lastName": "Eivaz",
+    "preferredName": "Steve",
+    "email": "steveneivaz@lewisu.edu",
+    "favoriteColor": "Red",
+    "city": "Bolingbrook",
+    "state": "IL",
+    "zip": "60440",
+    "lat": "41.6986",
+    "lng": "88.0684", 
+    "favoriteHobby": "Gaming"
+}
